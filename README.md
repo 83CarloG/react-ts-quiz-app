@@ -1,3 +1,11 @@
+## React/Typescrpt
+
+
+Quiz App made with React & TS. API from https://opentdb.com/api_config.php
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
